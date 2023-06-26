@@ -30,14 +30,14 @@ I tried to further improved the model by tuning the hyperparameters. I specified
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
+![image](https://github.com/Tanya-1109/Bike-Sharing-Demand-with-Autogluon/assets/107848751/93cb138b-e8f3-4bc5-bb5e-0430973d3f1e)
 
 
-![nd009t-c1-intro-to-ml-project-starter/model_train_score.png](model_train_score.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
+![image](https://github.com/Tanya-1109/Bike-Sharing-Demand-with-Autogluon/assets/107848751/8731c686-65d6-4818-bdb7-ec9e76d87e0a)
 
-![nd009t-c1-intro-to-ml-project-starter/model_test_score.png](model_test_score.png)
 
 ## Summary
 This project is a great way for me to have a hands-on experience in building a machine learning model. I practice each aspect of ML workflow and build a model to predict the bike sharing demand using AutoGluon. I also learned how we could start by creating a baseline model using default parameters as an initial experiment, how to further improve the model with EDA and feature engineering, and perform hyperparameter tuning to optimize the model. I learned a lot from this project and I am excited to learn more.
